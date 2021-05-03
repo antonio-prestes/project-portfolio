@@ -11,7 +11,7 @@
 #about,
 #contact,
 #footer {
-    padding: 0rem 10rem 0rem; 
+    padding: 0rem 10rem 0rem;
 }
 
 /* Navbar style */
@@ -42,7 +42,6 @@
 }
 
 .contentAbout1 {
-    margin-top: 5rem;
     justify-content: center;
 }
 
@@ -59,7 +58,7 @@
 
 .contentWork2,
 .contentWork1 {
-    padding: 1rem 3rem 3rem; 
+    padding: 1rem 3rem 3rem;
 }
 
 /* contact style */
@@ -72,9 +71,11 @@
 .contentContact1,
 .contentContact2 {
 
-    padding: 1rem 0.5rem 3rem; 
+    padding: 1rem 0.5rem 3rem;
 }
 
 .contentContact1 {
     flex: 1;
+    padding-left: 50px;
+    padding-right: 50px;
 }
